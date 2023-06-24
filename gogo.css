@@ -1,0 +1,32 @@
+header {
+   color: black;
+   text-align: center;
+   font-family: cursive;
+   font-size: 32px;
+}
+
+body {
+   background-color: rgb(212, 188, 192);
+   color: black;
+   text-align: center;
+   font-family: cursive;
+   font-size: 20px;
+}
+
+.body-container-div {
+   display: flex;
+}
+
+.img-div {
+   text-align: left;
+   vertical-align: top;
+   float: left;
+}
+
+img {
+   text-align: left;
+   width: 350px;
+   height: 40%;
+   border: solid 5px rgb(199, 119, 182);
+   border-radius: 15%;
+}
