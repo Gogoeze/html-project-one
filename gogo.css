@@ -3,6 +3,7 @@ header {
    text-align: center;
    font-family: cursive;
    font-size: 32px;
+   text-shadow: 3px 3px rgb(199, 119, 182);
 }
 
 body {
